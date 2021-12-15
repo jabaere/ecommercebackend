@@ -1,4 +1,4 @@
-# GraphQL endpoint  ©scandiweb
+# GraphQL endpoint  © created by scandiweb
 
 ### Overview
 
